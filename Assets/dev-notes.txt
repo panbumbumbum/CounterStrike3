@@ -1,0 +1,17 @@
+panbumbumbum
+Let's create an FPS game.
+
+Workspace
+used /new (rerun without)
+Sure, here's a proposed directory structure for a first-person shooter (FPS) game project:
+
+Create Workspace...
+panbumbumbum
+why in typescript?
+
+GitHub Copilot
+You're right—since you're working in Unity, the primary language is C#, not TypeScript. My previous example was generic. For a Unity FPS game, you'll use C# scripts.
+
+Here's a basic Unity FPS project structure suggestion:
+
+Would you like to start with a simple player controller script in C#?
